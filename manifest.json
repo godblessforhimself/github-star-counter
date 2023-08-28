@@ -3,7 +3,7 @@
   "name": "GitHub Star Counter",
   "version": "1.0",
   "description": "Display star counts of GitHub repositories on the current page.",
-  "permissions": ["activeTab"],
+  "permissions": ["activeTab", "storage"],
   "action": {
     "default_popup": "popup.html",
     "default_icon": {
